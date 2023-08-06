@@ -1,5 +1,5 @@
 # hound 🐶
-Hound is a simple and light tool for information gathering and capture exact GPS coordinates
+Hound is a simple and light tool for information gathering and capture exact GPS coordinates.
 This tool is made and owned by techchip youtube channel , i've just edited it for some minor bug fixes and reuploaded it.
 ![image](https://user-images.githubusercontent.com/42796435/229538253-e0a9c811-60e4-4294-bd3b-8eb7621b51f5.png)
 
